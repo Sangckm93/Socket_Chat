@@ -1,0 +1,8 @@
+﻿  Get_info_client.cpp
+D:\STUDY\IMIC\Basic_C_Cpp\EX\20200104_Socket_server\Socket_server\Socket.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\STUDY\IMIC\Basic_C_Cpp\EX\20200104_Socket_server\Socket_server\Socket.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Socket.cpp
+D:\STUDY\IMIC\Basic_C_Cpp\EX\20200104_Socket_server\Socket_server\Socket.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\STUDY\IMIC\Basic_C_Cpp\EX\20200104_Socket_server\Socket_server\Socket.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Socket_server.vcxproj -> D:\STUDY\IMIC\Basic_C_Cpp\EX\20200104_Socket_server\Socket_server\Debug\Socket_server.exe
